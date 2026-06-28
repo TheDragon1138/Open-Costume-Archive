@@ -1,8 +1,8 @@
-# Rebel Pilot (Y) Wing Helmet
+# Rebel Pilot (Grey) Wing Helmet
 
 Model Download: https://cults3d.com/en/3d-model/art/y-wing-helmet-090b567df33b4f7d763b
 
-<img src="https://github.com/TheDragon1138/Open-Costume-Archive/blob/main/Helmets/Rebel%20Pilot%20(Y)/icon.png" alt="drawing" width="200"/>
+<img src="https://github.com/TheDragon1138/Open-Costume-Archive/blob/main/Helmets/Rebel%20Pilot%20(Grey)/icon.png" alt="drawing" width="200"/>
 
 Includes:
 - Helmet Shell (& Vacuumforming Moulds)
