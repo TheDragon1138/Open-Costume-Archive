@@ -1,13 +1,13 @@
 # Open Costume Archive
- An open-source archive dedicated to the research, documentation, and digital preservation of film costumes produced by Elstree and ILM during the early 1980s.
+ An open-source archive dedicated to the research and documentation of film costumes produced by Elstree and ILM during the early 1980s.
 
 This work is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
 
  ## About
-This project aims to create historically accurate, openly accessible documentation and 3D models of production costumes through collaborative research. Rather than offering only a downloadable model, this archive combines:
+This project aims to create historically accurate, openly accessible documentation of production costumes through collaborative research. Rather than offering only a downloadable model, this archive aims to combine:
 
 - Historical research
-- High-accuracy 3D models
+- Links to Opensource High-accuracy 3D models
 - Variant documentation
 - Dimensional analysis
 - Reference imagery
@@ -16,7 +16,7 @@ This project aims to create historically accurate, openly accessible documentati
 
  ## Goals
 - Preserve historical information surrounding the costumes
-- Produce the most accurate digital reconstructions possible
+- Provide the most accurate digital reconstructions possible
 - Document differences between production variants
 - Encourage collaborative research
 - Make improvements transparent through version control
