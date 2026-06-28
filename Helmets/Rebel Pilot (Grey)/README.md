@@ -1,4 +1,4 @@
-# Rebel Pilot (Grey) Wing Helmet
+# Rebel Pilot (Grey) Helmet
 
 Model Download: https://cults3d.com/en/3d-model/art/y-wing-helmet-090b567df33b4f7d763b
 
